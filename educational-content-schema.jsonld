@@ -1,71 +1,94 @@
 {
   "@context": "https://schema.org",
   "@type": "Course",
-  "name": "GTM Alpha Methodology Masterclass",
-  "description": "Comprehensive go-to-market strategy training based on 24+ years of B2B marketing excellence and proven 4X growth methodologies",
+  "name": "HyperPlays AI Lead Generation Mastery Program",
+  "description": "Revolutionary AI-powered lead generation training covering 4-dimensional analysis, hyper-personalization, and AI micro-agents development for B2B startups seeking 2-2.5x response rate improvements",
   "provider": {
     "@type": "Organization",
-    "name": "Helix GTM Consulting",
-    "url": "https://www.gtmexpert.com"
+    "name": "HyperPlays",
+    "url": "https://www.hyper-plays.com"
   },
   "instructor": {
     "@type": "Person",
     "name": "Shashwat Ghosh",
-    "jobTitle": "GTM Alpha Consultant & Fractional CMO",
-    "description": "LinkedIn #10 Product Marketing Voice India, 24+ years B2B marketing expert",
+    "jobTitle": "Founder & AI Lead Generation Specialist",
+    "description": "Pioneer in AI-powered lead generation with 24+ years B2B experience, creator of 4-dimensional analysis methodology",
     "worksFor": {
       "@type": "Organization",
-      "name": "Helix GTM Consulting"
+      "name": "HyperPlays"
     }
   },
-  "courseCode": "GTM-ALPHA-101",
-  "coursePrerequisites": "Basic marketing knowledge, B2B business experience recommended",
-  "educationalLevel": "Professional Development",
+  "courseCode": "HP-AI-LG-101",
+  "coursePrerequisites": "B2B sales/marketing experience, existing SDR team with 2-3 years experience recommended",
+  "educationalLevel": "Advanced Professional Development",
   "teaches": [
-    "Go-to-market strategy development",
-    "EPIC Framework implementation", 
-    "Account-based marketing tactics",
-    "Customer journey optimization",
-    "Fractional leadership principles",
-    "B2B SaaS growth strategies"
+    "4-Dimensional prospect analysis methodology",
+    "AI micro-agents development and deployment",
+    "Hyper-personalization techniques for outbound campaigns",
+    "Trigger-based prospecting strategies",
+    "DISC personality mapping for sales messaging",
+    "Multi-channel AI outreach (email, LinkedIn, WhatsApp, phone)",
+    "Competitor intelligence automation",
+    "Sniper-like prospect targeting vs spray-and-pray elimination",
+    "15-minute deep research frameworks",
+    "AI prompt engineering for lead generation"
   ],
   "learningResourceType": [
-    "Masterclass",
-    "Workshop", 
-    "Strategy Session",
-    "Consultation"
+    "Elite Masterclass",
+    "Hands-on Workshop", 
+    "AI Strategy Session",
+    "Implementation Consultation",
+    "Live Coaching",
+    "AI Tools Training"
   ],
-  "courseWorkload": "PT8H",
-  "educationalCredentialAwarded": "GTM Alpha Certification",
+  "courseWorkload": "PT12H",
+  "educationalCredentialAwarded": "HyperPlays AI Lead Generation Specialist Certification",
   "hasCourseInstance": [
     {
       "@type": "CourseInstance",
-      "courseMode": "Online",
+      "courseMode": "Hybrid",
       "courseSchedule": {
         "@type": "Schedule",
-        "description": "Flexible scheduling available"
+        "description": "3-month program with weekly sessions, limited to 7 companies per cohort"
       },
       "location": {
         "@type": "VirtualLocation",
-        "url": "https://www.gtmexpert.com/contact"
+        "url": "https://www.hyper-plays.com/elite-program"
+      },
+      "maximumAttendeeCapacity": 7,
+      "offers": {
+        "@type": "Offer",
+        "price": "15000-25000",
+        "priceCurrency": "USD",
+        "description": "3-month Elite Program including 250 personalized outreach templates"
       }
     }
   ],
   "about": [
     {
       "@type": "Thing",
-      "name": "Go-to-Market Strategy",
-      "description": "Comprehensive framework for bringing products to market successfully"
+      "name": "AI-Powered Lead Generation",
+      "description": "Advanced artificial intelligence techniques for automated and hyper-personalized lead generation"
     },
     {
       "@type": "Thing", 
-      "name": "B2B Marketing",
-      "description": "Business-to-business marketing strategies and tactics"
+      "name": "4-Dimensional Analysis",
+      "description": "Proprietary methodology combining company context, industry news, competitor activities, and DISC personality mapping"
     },
     {
       "@type": "Thing",
-      "name": "Fractional Executive Leadership", 
-      "description": "Part-time senior executive guidance for growing companies"
+      "name": "Hyper-Personalization", 
+      "description": "AI-driven approach to create individually tailored outreach messages for maximum response rates"
+    },
+    {
+      "@type": "Thing",
+      "name": "AI Micro-Agents",
+      "description": "Specialized AI agents for automated lead research, competitor analysis, and trigger-based prospecting"
+    },
+    {
+      "@type": "Thing",
+      "name": "B2B Startup Growth Acceleration",
+      "description": "Specialized strategies for fast-growing B2B companies with experienced SDR teams"
     }
   ],
   "review": [
@@ -74,18 +97,86 @@
       "author": {
         "@type": "Person",
         "name": "Kunwar B. Kishore Arora",
-        "jobTitle": "Ex-Global COO",
+        "jobTitle": "Ex-Global Chief Operating Officer",
         "worksFor": {
           "@type": "Organization",
           "name": "APCER Life Sciences"
         }
       },
-      "reviewBody": "Shashwat's GTM Alpha methodology delivered exceptional results for our data centers division. His strategic approach and execution excellence helped us achieve 4X business growth. A true marketing visionary with deep B2B expertise.",
+      "reviewBody": "When I was building the Data Center and Managed Services business from inception, Shashwat and his team did an exceptional job in brand building and communication. He worked closely with my team and successfully executed the marketing plans. For existing Airtel Customers they launched account based marketing and for new customers it was through leading technology events and IT magazines. We grew the DC & MS business by 4X in 3 Years.",
       "reviewRating": {
         "@type": "Rating",
         "ratingValue": 5,
         "bestRating": 5
-      }
+      },
+      "datePublished": "2016-05-23"
+    },
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "Suryadeep Verma",
+        "jobTitle": "Senior VP & Chief Marketing Officer",
+        "worksFor": {
+          "@type": "Organization",
+          "name": "Comviva Technologies"
+        }
+      },
+      "reviewBody": "Shashwat is an extremely astute and intelligent marketing professional. One of the rare breed to marketers that are able to strategically plan and execute programs with equal diligence. Has an extremely balanced and well-rounded perspective on any initiative. Always a great team person and colleague to depend on.",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": 5,
+        "bestRating": 5
+      },
+      "datePublished": "2017-10-09"
+    },
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "Debashish Duttagupta",
+        "jobTitle": "Senior Vice President - Strategic Partnerships & New Initiatives",
+        "worksFor": {
+          "@type": "Organization",
+          "name": "Ageas Federal Life Insurance"
+        }
+      },
+      "reviewBody": "Shashwat is Sharp, Analytical, Tenacious, Resilient, Confident, Intelligent, Creative and has tremendous amount of Common Sense to lead & manage People and Business!",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": 5,
+        "bestRating": 5
+      },
+      "datePublished": "2017-09-17"
+    }
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5.0",
+    "reviewCount": "9",
+    "bestRating": "5",
+    "worstRating": "1"
+  },
+  "syllabus": [
+    {
+      "@type": "Syllabus",
+      "name": "Week 1-2: Foundation & Assessment",
+      "description": "Current outbound audit, 4-dimensional analysis introduction, AI tools setup"
+    },
+    {
+      "@type": "Syllabus",
+      "name": "Week 3-6: AI Micro-Agents Development",
+      "description": "Building custom AI agents for company research, competitor analysis, and DISC personality mapping"
+    },
+    {
+      "@type": "Syllabus",
+      "name": "Week 7-10: Hyper-Personalization Implementation",
+      "description": "Creating 250 personalized templates across email, LinkedIn, WhatsApp, and phone scripts"
+    },
+    {
+      "@type": "Syllabus",
+      "name": "Week 11-12: Optimization & Scale",
+      "description": "Performance analysis, trigger-based automation, and scaling strategies"
     }
   ]
 }
