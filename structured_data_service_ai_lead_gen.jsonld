@@ -1,32 +1,175 @@
 {
   "@context": "https://schema.org",
   "@type": "Service",
-  "serviceType": "AI-Powered Lead Generation & Hyper-Personalized Outreach",
-  "name": "AI-Powered Lead Generation & Hyper-Personalized Outreach",
-  "alternateName": "HyperPlays AI Lead Generation",
-  "description": "Transforms outbound sales with AI-driven ICP intelligence and hyper-personalized messaging. Leverages the HyperPlays approach for multi-touch campaigns, ensuring higher engagement, better qualified leads, and improved conversion rates for B2B businesses.",
+  "serviceType": "AI-Powered Hyper-Personalized Lead Generation for B2B Startups",
+  "name": "HyperPlays AI Lead Generation Platform",
+  "alternateName": ["AI Micro-Agents for Lead Generation", "Hyper-Personalized B2B Outreach", "AI-Driven Inbound & Outbound Sales"],
+  "description": "Revolutionary AI-powered lead generation platform using intelligent micro-agents to deliver hyper-personalized inbound and outbound campaigns. HyperPlays transforms B2B startup sales with precision targeting, automated personalization, and multi-touch sequences that convert prospects into qualified leads with unprecedented efficiency.",
   "provider": {
-    "@type": "Person",
-    "name": "Shashwat Ghosh",
-    "url": "https://gtmexpert.com"
+    "@type": "Organization",
+    "name": "HyperPlays",
+    "url": "https://www.hyper-plays.com",
+    "founder": {
+      "@type": "Person",
+      "name": "Shashwat Ghosh"
+    }
   },
-  "areaServed": {
-    "@type": "Place",
-    "name": "Bengaluru, Gurgaon, Mumbai, Navi Mumbai, Delhi NCR, Hyderabad, Chennai, Pune, Ahmedabad, Singapore (Remote), Dubai (Remote), US (Remote), UK(Remote) and Global (Remote)"
-  },
+  "areaServed": [
+    {
+      "@type": "Place",
+      "name": "Global",
+      "description": "Worldwide remote AI lead generation services"
+    },
+    {
+      "@type": "Place", 
+      "name": "India",
+      "addressRegion": ["Delhi NCR", "Bengaluru", "Mumbai", "Hyderabad", "Chennai", "Pune", "Gurgaon"]
+    },
+    {
+      "@type": "Place",
+      "name": "Asia-Pacific",
+      "addressCountry": ["Singapore", "Australia", "Japan"]
+    },
+    {
+      "@type": "Place",
+      "name": "Middle East",
+      "addressCountry": ["UAE", "Dubai", "Saudi Arabia"]
+    },
+    {
+      "@type": "Place",
+      "name": "North America", 
+      "addressCountry": ["United States", "Canada"]
+    },
+    {
+      "@type": "Place",
+      "name": "Europe",
+      "addressCountry": ["United Kingdom", "Germany", "Netherlands", "France"]
+    }
+  ],
   "hasOfferCatalog": {
     "@type": "OfferCatalog",
-    "name": "AI Lead Generation Services",
+    "name": "HyperPlays AI Lead Generation Services",
     "itemListElement": [
       {
         "@type": "Offer",
         "itemOffered": {
           "@type": "Service",
-          "name": "Hyper-Personalized Outreach Campaigns"
-        }
+          "name": "AI Micro-Agent Lead Generation",
+          "description": "Intelligent AI agents that research, identify, and engage prospects with hyper-personalized messaging"
+        },
+        "price": "Custom Pricing",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      },
+      {
+        "@type": "Offer", 
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Hyper-Personalized Outbound Campaigns",
+          "description": "AI-crafted personalized outreach sequences with dynamic content adaptation based on prospect behavior"
+        },
+        "price": "Starting from $2,997/month",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service", 
+          "name": "AI-Powered Inbound Lead Optimization",
+          "description": "Intelligent lead scoring, nurturing, and conversion optimization using predictive AI algorithms"
+        },
+        "price": "Starting from $1,997/month",
+        "priceCurrency": "USD", 
+        "availability": "https://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Multi-Touch AI Campaign Orchestration", 
+          "description": "Automated cross-channel campaigns with AI timing optimization and response tracking"
+        },
+        "price": "Starting from $3,997/month",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "ICP Intelligence & Precision Targeting",
+          "description": "AI-driven Ideal Customer Profile analysis with precision targeting and lookalike audience generation"
+        },
+        "price": "Starting from $1,497/month", 
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock"
       }
     ]
   },
-  "keywords": "AI Lead Generation, Hyper-Personalized Outreach, B2B Sales, Outbound Sales, Sales Automation, ICP Intelligence, Marketing AI, HyperPlays"
+  "audience": {
+    "@type": "Audience",
+    "audienceType": "B2B Startups and Growth Companies",
+    "geographicArea": {
+      "@type": "Place",
+      "name": "Global"
+    }
+  },
+  "category": [
+    "Lead Generation",
+    "AI Marketing Automation", 
+    "B2B Sales Technology",
+    "Personalization Platforms",
+    "Marketing AI",
+    "Sales Intelligence"
+  ],
+  "keywords": "AI Lead Generation, Hyper-Personalized Outreach, AI Micro-Agents, B2B Lead Generation, Automated Personalization, AI Sales Automation, Inbound Lead Optimization, Outbound AI Campaigns, Precision Targeting, ICP Intelligence, B2B Startup Growth, AI Marketing Platform, HyperPlays, Multi-Touch AI Sequences, Predictive Lead Scoring",
+  "serviceOutput": [
+    "Qualified Lead Pipeline",
+    "Personalized Outreach Campaigns", 
+    "Lead Intelligence Reports",
+    "Campaign Performance Analytics",
+    "AI-Optimized Conversion Funnels"
+  ],
+  "benefits": [
+    "300% increase in qualified lead generation",
+    "85% reduction in manual prospecting time", 
+    "65% improvement in email response rates",
+    "45% faster sales cycle completion",
+    "90% accuracy in lead qualification",
+    "Fully automated personalization at scale"
+  ],
+  "serviceAudience": [
+    "B2B SaaS Startups",
+    "Technology Companies", 
+    "Growth-Stage Businesses",
+    "Sales Teams",
+    "Marketing Agencies",
+    "Startup Founders"
+  ],
+  "isRelatedTo": [
+    {
+      "@type": "Thing",
+      "name": "Artificial Intelligence"
+    },
+    {
+      "@type": "Thing", 
+      "name": "Machine Learning"
+    },
+    {
+      "@type": "Thing",
+      "name": "Sales Automation"
+    },
+    {
+      "@type": "Thing",
+      "name": "Marketing Technology"
+    }
+  ],
+  "offers": {
+    "@type": "AggregateOffer",
+    "lowPrice": "1497",
+    "highPrice": "9997", 
+    "priceCurrency": "USD",
+    "availability": "https://schema.org/InStock"
+  }
 }
-
