@@ -1,0 +1,26 @@
+{
+  "container_id": "GTM-5LKXF5F3",
+  "ga4_measurement_id": "G-67ZJXBGXDH",
+  "business_focus": "ai_lead_generation",
+  "methodology": "4_dimensional_analysis",
+  "website_url": "https://www.hyper-plays.com",
+  "platform": "wix",
+  "primary_conversion": "consultation_form_submission",
+  "lead_value": 500,
+  "currency": "USD",
+  "last_updated": "2025-01-07",
+  "configuration_version": "1.0",
+  "tracking_priorities": [
+    "consultation_form_submissions",
+    "ai_methodology_engagement", 
+    "lead_scoring",
+    "form_abandonment_analysis"
+  ],
+  "custom_dimensions": {
+    "1": "user_segment",
+    "2": "lead_source",
+    "3": "consultation_type", 
+    "4": "company_size",
+    "5": "methodology"
+  }
+}
