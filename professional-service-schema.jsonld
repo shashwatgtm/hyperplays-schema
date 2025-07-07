@@ -1,12 +1,12 @@
 {
   "@context": "https://schema.org",
   "@type": "ProfessionalService",
-  "name": "Helix GTM Consulting - B2B Marketing Excellence",
-  "alternateName": ["GTM Expert", "GTMExpert"],
-  "description": "Premier go-to-market consulting and fractional CMO services for B2B companies. Specializing in SaaS, fintech, and enterprise technology with proven 4X growth methodology.",
-  "url": "https://www.gtmexpert.com",
+  "name": "HyperPlays - AI-Powered Hyper-Personalized Lead Generation",
+  "alternateName": ["HyperPlays AI", "Hyper-Plays", "AI Lead Generation Platform"],
+  "description": "Revolutionary AI-powered lead generation platform specializing in hyper-personalized outbound campaigns for B2B startups. Using 4-dimensional analysis and AI micro-agents to deliver 2-2.5x improvement over clients' current response rates.",
+  "url": "https://www.hyper-plays.com",
   "telephone": "+919810603649",
-  "email": "shashwat@gtmexpert.com",
+  "email": "shashwat@hyperplays.in",
   "areaServed": [
     {
       "@type": "Country",
@@ -27,37 +27,46 @@
     {
       "@type": "Country", 
       "name": "United Kingdom"
+    },
+    {
+      "@type": "Country",
+      "name": "Canada"
+    },
+    {
+      "@type": "Country",
+      "name": "Australia"
     }
   ],
   "serviceType": [
-    "Go-To-Market Strategy Consulting",
-    "Fractional CMO Services",
-    "B2B Marketing Strategy", 
-    "Account-Based Marketing",
-    "Product Marketing Consulting",
-    "SaaS Growth Marketing",
-    "Digital Marketing Strategy",
-    "Marketing Team Leadership"
+    "AI-Powered Lead Generation",
+    "Hyper-Personalized Outbound Campaigns",
+    "AI Micro-Agents Development",
+    "4-Dimensional Prospect Analysis",
+    "Inbound Lead Optimization",
+    "B2B Startup Growth Acceleration",
+    "Personalized Multi-Channel Outreach",
+    "AI-Driven Sales Intelligence"
   ],
   "provider": {
     "@type": "Person",
     "name": "Shashwat Ghosh",
-    "jobTitle": "GTM Alpha Consultant & Fractional CMO",
-    "description": "24+ years B2B marketing expert, LinkedIn #10 Product Marketing Voice India, proven 4X business growth achiever",
+    "jobTitle": "Founder & AI Lead Generation Specialist",
+    "description": "Pioneer in AI-powered lead generation with 24+ years B2B experience. Creator of the HyperPlays 4-dimensional analysis methodology that delivers sniper-like precision in prospect targeting.",
     "hasOccupation": {
       "@type": "Occupation",
-      "name": "Marketing Consultant",
-      "description": "Senior marketing strategist specializing in go-to-market planning and execution",
+      "name": "AI Lead Generation Expert",
+      "description": "Specialized in developing AI micro-agents and hyper-personalized outreach strategies for B2B startups",
       "skills": [
-        "Go-to-Market Strategy",
-        "B2B Marketing",
-        "Fractional Leadership", 
-        "Account-Based Marketing",
-        "Product Marketing",
-        "SaaS Marketing",
-        "Digital Strategy"
+        "AI Lead Generation",
+        "Hyper-Personalization",
+        "4-Dimensional Prospect Analysis", 
+        "AI Micro-Agents Development",
+        "Multi-Channel Outreach",
+        "B2B Sales Intelligence",
+        "DISC Personality Mapping",
+        "Trigger-Based Prospecting"
       ],
-      "experienceRequirements": "24+ years in B2B marketing and strategy"
+      "experienceRequirements": "24+ years in B2B marketing with AI specialization"
     },
     "alumniOf": [
       {
@@ -77,44 +86,83 @@
   "makesOffer": [
     {
       "@type": "Offer",
-      "name": "GTM Alpha Strategy Consulting",
-      "description": "Comprehensive go-to-market strategy development and implementation",
-      "price": "5000-50000",
+      "name": "HyperPlays Elite Program",
+      "description": "Exclusive 3-month AI lead generation program limited to 7 B2B companies. Includes 250 hyper-personalized emails, LinkedIn messages, WhatsApp outreach, and phone scripts using 4-dimensional analysis.",
+      "price": "15000-25000",
       "priceCurrency": "USD",
       "priceSpecification": {
         "@type": "PriceSpecification",
-        "minPrice": 5000,
-        "maxPrice": 50000,
-        "priceCurrency": "USD"
-      }
+        "minPrice": 15000,
+        "maxPrice": 25000,
+        "priceCurrency": "USD",
+        "unitText": "3-month program"
+      },
+      "availability": "Limited to 7 companies per cohort"
     },
     {
       "@type": "Offer",
-      "name": "Fractional CMO Services", 
-      "description": "Part-time senior marketing leadership for growing B2B companies",
-      "price": "8000-15000",
+      "name": "AI Micro-Agents Setup", 
+      "description": "Custom AI micro-agents development for automated lead generation with company context, industry news, competitor analysis, and DISC personality mapping",
+      "price": "8000-12000",
       "priceCurrency": "USD",
       "priceSpecification": {
         "@type": "PriceSpecification",
         "minPrice": 8000,
-        "maxPrice": 15000,
+        "maxPrice": 12000,
         "priceCurrency": "USD",
-        "unitText": "monthly"
+        "unitText": "one-time setup"
+      }
+    },
+    {
+      "@type": "Offer",
+      "name": "Hyper-Personalization Audit",
+      "description": "Comprehensive analysis of current outbound approach vs HyperPlays methodology with specific recommendations for 2-2.5x improvement over current performance",
+      "price": "2500-3500",
+      "priceCurrency": "USD",
+      "priceSpecification": {
+        "@type": "PriceSpecification",
+        "minPrice": 2500,
+        "maxPrice": 3500,
+        "priceCurrency": "USD",
+        "unitText": "one-time audit"
       }
     }
   ],
   "hasCredential": [
     {
       "@type": "EducationalOccupationalCredential",
+      "name": "AI Lead Generation Innovation Award",
+      "description": "Pioneer in 4-dimensional prospect analysis and hyper-personalized outreach methodology"
+    },
+    {
+      "@type": "EducationalOccupationalCredential",
       "name": "LinkedIn Top Product Marketing Voice",
-      "description": "#10 in India, #52 Worldwide recognition for product marketing expertise"
+      "description": "#10 in India, expertise in B2B marketing and lead generation"
     }
   ],
   "award": [
     {
       "@type": "Award",
-      "name": "4X Business Growth Achievement", 
-      "description": "Delivered 4X business growth for Airtel Data Centers division through strategic GTM implementation"
+      "name": "Consistent 2-2.5x Response Rate Improvement", 
+      "description": "Track record of delivering 2-2.5x improvement over clients' existing response rates through hyper-personalized AI methodology"
+    },
+    {
+      "@type": "Award",
+      "name": "AI Innovation in B2B Sales",
+      "description": "Revolutionary 4-dimensional analysis combining company context, industry news, competitor activities, and DISC personality mapping"
     }
+  ],
+  "targetAudience": {
+    "@type": "Audience",
+    "audienceType": "B2B Startups",
+    "description": "Fast-growing B2B companies with 2-3 year experienced SDRs looking to escape spray-and-pray outbound methods"
+  },
+  "specialty": [
+    "Sniper-like prospect targeting",
+    "15-minute deep research per prospect",
+    "Trigger-based outreach (new CRO/CMO hires, SDR recruitment, recent funding)",
+    "Multi-channel personalization (email, LinkedIn, WhatsApp, phone)",
+    "AI-powered competitor analysis",
+    "DISC personality-based messaging"
   ]
 }
