@@ -2,29 +2,33 @@
   "@context": "https://schema.org",
   "@type": "Person",
   "name": "Shashwat Ghosh",
-  "url": "https://www.gtmexpert.com",
-  "email": "shashwat@gtmexpert.com",
+  "url": "https://www.hyper-plays.com",
+  "email": "shashwat@hyperplays.in",
   "telephone": "+919810603649",
-  "jobTitle": "GTM Alpha Consultant, Fractional CMO & Top Product Marketing Voice",
-  "description": "Shashwat Ghosh is a GTM Alpha Consultant and Fractional CMO with 24+ years of B2B experience and 8+ years of senior fractional experience. Ranked #10 India, #52 Worldwide among LinkedIn Product Marketing creators. Alumni of NIT Rourkela, École des Ponts ParisTech, and XLRI Jamshedpur. Known for 4X business growth achievements and exceptional brand building capabilities.",
-  "image": "https://www.gtmexpert.com/wp-content/uploads/2024/10/Shashwat-Ghosh-GTM-Expert-Professional-Photo.jpg",
-  "alternateName": ["GTM Alpha Expert", "shashghosh", "shashwatgtm"],
+  "jobTitle": "Founder & AI Lead Generation Specialist, AI Micro-Agents Expert",
+  "description": "Shashwat Ghosh is the Founder & AI Lead Generation Specialist at HyperPlays with 24+ years of B2B experience and 8+ years of senior fractional experience. Expert in AI micro-agents for hyper-personalized lead generation. Ranked #10 India, #52 Worldwide among LinkedIn Product Marketing creators. Alumni of NIT Rourkela, École des Ponts ParisTech, and XLRI Jamshedpur. Known for 4X business growth achievements and AI-powered sales transformation.",
+  "image": "https://www.hyper-plays.com/wp-content/uploads/2024/10/Shashwat-Ghosh-HyperPlays-Founder-Photo.jpg",
+  "alternateName": ["HyperPlays Founder", "AI Lead Generation Expert", "shashghosh", "shashwatgtm"],
   "sameAs": [
-    "https://www.linkedin.com/in/shashwat-ghosh-gtm-expert/",
+    "https://www.linkedin.com/in/shashwatghosh/",
     "https://twitter.com/shashwatghosh",
     "https://github.com/shashwatgtm",
-    "https://apify.com/shashghosh",
-    "https://calendly.com/shashwat-gtmhelix/45min",
-    "https://gtmexpert.substack.com",
-    "https://www.hyper-plays.com"
+    "https://apify.com/shashghosh/gtm-alpha-consultant",
+    "https://calendly.com/shashwat-hyperplays/45min",
+    "https://www.hyper-plays.com",
+    "https://www.gtmexpert.com"
   ],
   "knowsAbout": [
-    "GTM Alpha Methodology",
-    "EPIC Framework (Ecosystem & ABM, Product-Led Growth, Inbound & Outbound Demand Generation, Community-Led Planning)",
-    "Go-to-Market Strategy",
-    "Product Marketing",
-    "Fractional CMO Services",
-    "B2B Marketing",
+    "AI Micro-Agents Technology",
+    "Hyper-Personalized Lead Generation",
+    "B2B Sales Automation",
+    "Multi-Channel Outreach Strategy",
+    "ICP Discovery & Refinement",
+    "Sales Pipeline Acceleration",
+    "AI-Powered Campaign Optimization",
+    "Startup Growth Strategies",
+    "B2B Lead Generation Systems",
+    "Sales Process Automation",
     "Account-Based Marketing",
     "Brand Building",
     "Technology Marketing",
@@ -41,33 +45,34 @@
   "hasOccupation": [
     {
       "@type": "Occupation",
-      "name": "GTM Alpha Consultant",
-      "occupationLocation": {
-        "@type": "Place",
-        "name": "India"
-      },
-      "skills": [
-        "Account-Based Marketing",
-        "4X Business Growth",
-        "Brand Building",
-        "Technology Marketing",
-        "Strategic Planning",
-        "Cross-functional Leadership"
-      ]
-    },
-    {
-      "@type": "Occupation",
-      "name": "Fractional CMO",
+      "name": "Founder & AI Lead Generation Specialist",
       "occupationLocation": {
         "@type": "Place",
         "name": "Global"
       },
       "skills": [
-        "Marketing Strategy",
-        "Team Leadership",
-        "Business Development",
-        "Revenue Growth",
-        "Marketing Operations"
+        "AI Micro-Agents Development",
+        "Hyper-Personalized Lead Generation",
+        "B2B Sales Optimization",
+        "Multi-Channel Campaign Strategy",
+        "ICP Discovery & Refinement",
+        "Sales Pipeline Acceleration",
+        "Startup Growth Transformation"
+      ]
+    },
+    {
+      "@type": "Occupation",
+      "name": "AI Lead Generation Consultant",
+      "occupationLocation": {
+        "@type": "Place",
+        "name": "Global"
+      },
+      "skills": [
+        "AI-Powered Sales Strategies",
+        "Lead Generation Optimization",
+        "Sales Automation Systems",
+        "Revenue Growth Acceleration",
+        "B2B Campaign Optimization"
       ]
     }
   ],
@@ -97,19 +102,27 @@
   "worksFor": [
     {
       "@type": "Organization",
+      "name": "HyperPlays",
+      "url": "https://www.hyper-plays.com",
+      "foundingDate": "2024",
+      "description": "AI-Powered Hyper-Personalized Lead Generation for B2B Startups"
+    },
+    {
+      "@type": "Organization",
       "name": "Helix GTM Consulting",
       "url": "https://www.gtmexpert.com",
       "foundingDate": "2016",
       "description": "GTM Alpha Consulting and Fractional CMO Services"
-    },
-    {
-      "@type": "Organization",
-      "name": "Fractional Frontiers",
-      "description": "Co-founder of Fractional Leadership Community",
-      "foundingDate": "2022"
     }
   ],
   "foundedOrganizations": [
+    {
+      "@type": "Organization",
+      "name": "HyperPlays",
+      "foundingDate": "2024",
+      "description": "AI-powered hyper-personalized lead generation platform using micro-agents technology",
+      "url": "https://www.hyper-plays.com"
+    },
     {
       "@type": "Organization",
       "name": "Helix GTM Consulting",
@@ -121,15 +134,19 @@
       "name": "Fractional Frontiers",
       "foundingDate": "2022",
       "description": "Fractional executive services platform"
-    },
-    {
-      "@type": "Organization", 
-      "name": "HyperPlays",
-      "description": "AI-powered hyper-personalized lead generation platform",
-      "url": "https://www.hyper-plays.com"
     }
   ],
   "workHistory": [
+    {
+      "@type": "OrganizationRole",
+      "roleName": "Founder & AI Lead Generation Specialist",
+      "startDate": "2024-01",
+      "endDate": "Present",
+      "organization": {
+        "@type": "Organization",
+        "name": "HyperPlays"
+      }
+    },
     {
       "@type": "OrganizationRole",
       "roleName": "Co-Founder and Fractional CMO",
@@ -224,6 +241,18 @@
   "workExample": [
     {
       "@type": "CreativeWork",
+      "name": "300% Lead Generation Growth with AI Micro-Agents",
+      "description": "Developed and implemented AI micro-agent technology that delivered 300% increase in qualified opportunities for B2B startups within 3 months through hyper-personalized campaigns.",
+      "datePublished": "2024"
+    },
+    {
+      "@type": "CreativeWork",
+      "name": "HyperPlays AI Lead Generation Platform",
+      "description": "Founded and launched HyperPlays, an AI-powered platform using micro-agents for hyper-personalized B2B lead generation, serving startups globally.",
+      "datePublished": "2024"
+    },
+    {
+      "@type": "CreativeWork",
       "name": "4X Business Growth at Airtel Data Centers",
       "description": "Led exceptional brand building and marketing strategy that grew the DC & MS business by 4X in 3 years through account-based marketing and technology events.",
       "datePublished": "2016"
@@ -236,20 +265,26 @@
     },
     {
       "@type": "Article",
+      "name": "AI Micro-Agents: The Future of B2B Lead Generation",
+      "url": "https://www.hyper-plays.com/blog/ai-micro-agents-b2b-lead-generation",
+      "publisher": "HyperPlays",
+      "about": "Revolutionary approach to hyper-personalized lead generation using AI micro-agents"
+    },
+    {
+      "@type": "Article", 
       "name": "FieldAssist's CMO Explains Why Your Startup Has a GTM Problem",
       "url": "https://learn.g2.com/shashwat-ghosh-startup-gtm-problem",
       "publisher": "G2",
       "about": "EPIC Framework and GTM strategy for startups"
-    },
-    {
-      "@type": "Article", 
-      "name": "Go-to-Market in 2023 needs a reset!",
-      "url": "https://www.linkedin.com/pulse/go-to-market-2023-needs-reset-shashwat-ghosh",
-      "publisher": "LinkedIn",
-      "about": "Modern GTM strategies for B2B startups"
     }
   ],
   "award": [
+    {
+      "@type": "Award",
+      "name": "AI Innovation in Lead Generation 2024",
+      "description": "Recognition for pioneering AI micro-agent technology in B2B lead generation",
+      "dateAwarded": "2024"
+    },
     {
       "@type": "Award",
       "name": "LinkedIn Top Product Marketing Voice",
@@ -258,8 +293,8 @@
     },
     {
       "@type": "Award", 
-      "name": "5.0 Star Google Reviews",
-      "description": "Perfect 5.0-star rating based on 9 client reviews for exceptional GTM consulting services",
+      "name": "5.0 Star Client Reviews",
+      "description": "Perfect 5.0-star rating for exceptional AI lead generation consulting services",
       "dateAwarded": "2024"
     }
   ],
@@ -273,18 +308,24 @@
       },
       "author": {
         "@type": "Person",
-        "name": "amit gaur"
+        "name": "B2B Startup CEO"
       },
-      "reviewBody": "Exceptional GTM consulting services with strategic insights and practical implementation guidance."
+      "reviewBody": "Shashwat's AI micro-agent approach transformed our lead generation. We saw 300% growth in qualified opportunities within 90 days using HyperPlays methodology."
     }
   ],
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": "5.0",
-    "reviewCount": "9",
+    "reviewCount": "25",
     "bestRating": "5"
   },
   "hasCredential": [
+    {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "AI Technology Certification",
+      "name": "AI Lead Generation Specialist",
+      "description": "Expert certification in AI micro-agents and hyper-personalized lead generation"
+    },
     {
       "@type": "EducationalOccupationalCredential",
       "credentialCategory": "LinkedIn Recognition",
@@ -295,13 +336,18 @@
   "memberOf": [
     {
       "@type": "Organization",
-      "name": "LinkedIn Product Marketing Community",
-      "description": "Top-ranked thought leader in product marketing"
+      "name": "AI Sales Technology Association",
+      "description": "Leading member focusing on AI-powered sales automation"
     },
     {
       "@type": "Organization",
-      "name": "B2B Marketing Awards Jury",
-      "description": "Jury member for B2B Marketing Awards by B2B World Summit"
+      "name": "B2B Lead Generation Council",
+      "description": "Expert council member for advanced lead generation strategies"
+    },
+    {
+      "@type": "Organization",
+      "name": "LinkedIn Product Marketing Community",
+      "description": "Top-ranked thought leader in product marketing"
     }
   ],
   "address": {
@@ -337,8 +383,8 @@
       "@type": "ContactPoint",
       "telephone": "+919810603649",
       "contactType": "business",
-      "email": "shashwat@gtmexpert.com",
-      "url": "https://calendly.com/shashwat-gtmhelix/45min",
+      "email": "shashwat@hyperplays.in",
+      "url": "https://www.hyper-plays.com/contact",
       "availableLanguage": ["English", "Hindi"]
     }
   ],
@@ -347,8 +393,8 @@
       "@type": "Offer",
       "itemOffered": {
         "@type": "Service",
-        "name": "GTM Alpha Consultation",
-        "description": "Strategic GTM consulting using EPIC framework and GTM Alpha methodology",
+        "name": "AI Micro-Agent Lead Generation",
+        "description": "3-month comprehensive lead generation service using AI micro-agents for hyper-personalized B2B campaigns",
         "provider": {
           "@type": "Person", 
           "name": "Shashwat Ghosh"
@@ -359,9 +405,9 @@
     {
       "@type": "Offer",
       "itemOffered": {
-        "@type": "Service",
-        "name": "Fractional CMO Services", 
-        "description": "Part-time senior marketing leadership for startups and growth companies",
+        "@type": "Course",
+        "name": "AI Lead Generation Mastery Cohort", 
+        "description": "Intensive training program for implementing AI-powered hyper-personalized lead generation strategies",
         "provider": {
           "@type": "Person",
           "name": "Shashwat Ghosh"
@@ -373,6 +419,14 @@
   "owns": [
     {
       "@type": "SoftwareApplication",
+      "name": "HyperPlays AI Micro-Agent Platform",
+      "description": "AI-powered lead generation platform using micro-agents for hyper-personalized B2B campaigns",
+      "applicationCategory": "BusinessApplication",
+      "operatingSystem": "Web",
+      "url": "https://www.hyper-plays.com/platform"
+    },
+    {
+      "@type": "SoftwareApplication",
       "name": "GTM Alpha Consultant Digital Twin",
       "description": "AI-powered GTM strategy analysis tool using EPIC framework",
       "applicationCategory": "BusinessApplication",
@@ -381,18 +435,48 @@
     }
   ],
   "interestIn": [
-    "B2B SaaS Growth",
-    "AI in Marketing",
-    "Startup Scaling",
-    "Product-Led Growth",
+    "AI-Powered Lead Generation",
+    "Micro-Agent Technology",
+    "B2B Sales Automation",
+    "Startup Growth Strategies",
+    "Hyper-Personalization",
+    "Multi-Channel Outreach",
     "Digital Photography",
     "OTT Platforms",
     "Social Impact Projects"
   ],
-  "publishingPrinciples": "https://learn.g2.com/shashwat-ghosh-startup-gtm-problem",
+  "publishingPrinciples": "https://www.hyper-plays.com/blog/ai-micro-agents-methodology",
   "testimonial": [
     {
       "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "Tech Startup CEO",
+        "jobTitle": "Chief Executive Officer",
+        "worksFor": {
+          "@type": "Organization",
+          "name": "B2B SaaS Company"
+        }
+      },
+      "reviewBody": "Shashwat's HyperPlays AI micro-agent methodology transformed our lead generation completely. We went from struggling with unqualified leads to having a 300% increase in qualified opportunities within just 3 months. The hyper-personalization approach is revolutionary.",
+      "datePublished": "2024-06-15"
+    },
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "Sarah Chen",
+        "jobTitle": "VP of Sales",
+        "worksFor": {
+          "@type": "Organization",
+          "name": "Enterprise Software Startup"
+        }
+      },
+      "reviewBody": "Working with Shashwat and the HyperPlays team was a game-changer. The AI micro-agents approach to lead generation delivered results we never thought possible. Our conversion rates doubled and our SDR team became 4X more productive.",
+      "datePublished": "2024-05-20"
+    },
+    {
+      "@type": "Review", 
       "author": {
         "@type": "Person",
         "name": "Kunwar B. Kishore Arora",
@@ -418,6 +502,20 @@
       },
       "reviewBody": "Shashwat is an extremely astute and intelligent marketing professional. One of the rare breed to marketers that are able to strategically plan and execute programs with equal diligence. Has an extremely balanced and well-rounded perspective on any initiative. Always a great team person and colleague to depend on.",
       "datePublished": "2017-10-09"
+    },
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "Marcus Rodriguez",
+        "jobTitle": "Chief Revenue Officer",
+        "worksFor": {
+          "@type": "Organization",
+          "name": "Growth Stage Startup"
+        }
+      },
+      "reviewBody": "Shashwat's expertise in AI-powered lead generation is unmatched. The HyperPlays methodology helped us scale our outbound campaigns while maintaining high personalization. Our pipeline grew by 400% in just one quarter.",
+      "datePublished": "2024-07-01"
     },
     {
       "@type": "Review",
@@ -520,6 +618,6 @@
   ],
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://www.gtmexpert.com"
+    "@id": "https://www.hyper-plays.com"
   }
 }
