@@ -1,70 +1,94 @@
 {
   "@context": "https://schema.org",
   "@type": "KnowledgeBase",
-  "name": "GTM Alpha Consulting Knowledge Hub",
-  "description": "Comprehensive knowledge base for Go-To-Market strategy, fractional CMO services, and B2B marketing excellence by Shashwat Ghosh",
-  "url": "https://www.gtmexpert.com",
+  "name": "HyperPlays AI Lead Generation Knowledge Hub",
+  "description": "Comprehensive AI-powered lead generation knowledge base covering 4-dimensional analysis, hyper-personalization, AI micro-agents, and advanced B2B outreach methodologies by Shashwat Ghosh",
+  "url": "https://www.hyper-plays.com",
   "dateModified": "2025-01-08",
   "author": {
     "@type": "Person",
     "name": "Shashwat Ghosh",
-    "jobTitle": "GTM Alpha Consultant & Fractional CMO",
-    "description": "24+ years B2B marketing expert, #10 Product Marketing Voice India, 4X business growth achiever",
+    "jobTitle": "Founder & AI Lead Generation Specialist",
+    "description": "24+ years B2B marketing expert, AI innovation pioneer, creator of HyperPlays 4-dimensional analysis methodology",
     "sameAs": [
       "https://www.linkedin.com/in/shashwatghosh/",
-      "https://twitter.com/gtmexpert"
+      "https://www.linkedin.com/feed/update/urn:li:activity:7347542733189804032/",
+      "https://www.linkedin.com/posts/shashwatghosh_going-back-to-school-next-week-can-hardly-activity-7345011025479442432-Nqbr"
     ]
   },
   "mainEntity": [
     {
       "@type": "DefinedTerm",
-      "name": "GTM Alpha Strategy",
-      "description": "Proprietary go-to-market framework that delivers 4X business growth through strategic positioning, customer journey optimization, and data-driven execution",
-      "termCode": "GTM-ALPHA",
+      "name": "4-Dimensional Analysis",
+      "description": "Revolutionary HyperPlays methodology combining company context analysis, industry news monitoring, competitor activity tracking, and DISC personality mapping for sniper-like prospect targeting",
+      "termCode": "4DA-HP",
       "inDefinedTermSet": {
         "@type": "DefinedTermSet",
-        "name": "GTM Methodologies",
+        "name": "HyperPlays AI Methodologies",
         "hasDefinedTerm": [
           {
             "@type": "DefinedTerm",
-            "name": "EPIC Framework",
-            "description": "Evidence-based go-to-market methodology: Explore market opportunities, Position strategically, Implement systematically, Control and optimize performance"
+            "name": "Hyper-Personalization Framework",
+            "description": "AI-driven approach replacing spray-and-pray methods with 15-minute deep research per prospect, delivering 2-2.5x improvement over current response rates"
+          },
+          {
+            "@type": "DefinedTerm",
+            "name": "AI Micro-Agents",
+            "description": "Specialized AI agents for automated lead generation, competitor analysis, and trigger-based prospecting for B2B startups"
+          },
+          {
+            "@type": "DefinedTerm",
+            "name": "Trigger-Based Outreach",
+            "description": "Intelligent prospecting based on new CRO/CMO hires, SDR recruitment activities, and recently funded startups"
           }
         ]
       }
     },
     {
       "@type": "DefinedTerm",
-      "name": "Fractional CMO",
-      "description": "Part-time senior marketing executive providing strategic leadership for B2B companies without full-time CMO budget. Expertise in SaaS, fintech, and enterprise technology",
-      "termCode": "FCMO"
+      "name": "Multi-Channel AI Outreach",
+      "description": "Comprehensive outreach strategy covering 250 hyper-personalized emails, LinkedIn messages, WhatsApp outreach, and phone scripts using AI-powered personalization",
+      "termCode": "MCAO-HP"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "HyperPlays Elite Program",
+      "description": "Exclusive 3-month AI lead generation program limited to 7 B2B companies, focusing on companies with 2-3 year experienced SDRs seeking to escape traditional outbound methods",
+      "termCode": "HEP-3M"
     }
   ],
   "specialty": [
-    "Go-To-Market Strategy",
-    "Fractional CMO Services", 
-    "B2B SaaS Marketing",
-    "Account-Based Marketing",
-    "Product Marketing",
-    "Growth Marketing",
-    "Digital Transformation",
-    "AI Marketing Strategy"
+    "AI-Powered Lead Generation",
+    "4-Dimensional Prospect Analysis",
+    "Hyper-Personalized Outbound Campaigns",
+    "AI Micro-Agents Development",
+    "Trigger-Based Prospecting",
+    "DISC Personality Mapping",
+    "B2B Startup Growth Acceleration",
+    "Multi-Channel AI Outreach",
+    "Competitor Intelligence Automation",
+    "Advanced AI Prompt Engineering"
   ],
   "serviceArea": {
     "@type": "Place",
     "name": "Global",
-    "description": "India, APAC, MEA, US, UK"
+    "description": "India, APAC, MEA, US, UK, Canada, Australia"
   },
   "award": [
     {
       "@type": "Award",
+      "name": "AI Lead Generation Innovation Pioneer",
+      "description": "Creator of 4-dimensional analysis methodology and HyperPlays AI platform"
+    },
+    {
+      "@type": "Award",
       "name": "LinkedIn Top Product Marketing Voice",
-      "description": "#10 in India, #52 Worldwide"
+      "description": "#10 in India, expertise in B2B marketing and AI innovation"
     },
     {
       "@type": "Award", 
-      "name": "4X Business Growth Achievement",
-      "description": "Delivered 4X business growth at Airtel Data Centers division"
+      "name": "2-2.5x Response Rate Improvement",
+      "description": "Consistent track record of improving clients' response rates through AI-powered hyper-personalization"
     }
   ],
   "credential": [
@@ -85,6 +109,85 @@
         "@type": "Organization",
         "name": "École des Ponts ParisTech, France"
       }
+    },
+    {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "AI Innovation",
+      "educationalLevel": "Advanced Practitioner",
+      "recognizedBy": {
+        "@type": "Organization",
+        "name": "XLRI Jamshedpur"
+      }
     }
+  ],
+  "knowledgeArticles": [
+    {
+      "@type": "Article",
+      "name": "How to Organise Emails: Connect Claude with Gmail using prebuilt MCP",
+      "url": "https://lnkd.in/gBSVHkqm",
+      "description": "Advanced AI integration for email management and lead generation workflows"
+    },
+    {
+      "@type": "Article",
+      "name": "How to create a personal branding website using Gamma & Claude",
+      "url": "https://lnkd.in/gt_rRFRd",
+      "description": "AI-powered personal branding strategies for B2B professionals"
+    },
+    {
+      "@type": "Article",
+      "name": "Manus AI Basic understanding",
+      "url": "https://lnkd.in/g6ZZCG7A",
+      "description": "Foundational AI tools for market research and lead generation"
+    },
+    {
+      "@type": "Article",
+      "name": "How to use Manus AI for your Market Research (TAM/SAM calculations)",
+      "url": "https://lnkd.in/gzwBunCK",
+      "description": "AI-driven market analysis for B2B startup positioning"
+    },
+    {
+      "@type": "Article",
+      "name": "How to put Gemini to better use?",
+      "url": "https://lnkd.in/g7ij2XWz",
+      "description": "Advanced Gemini AI applications for lead generation"
+    },
+    {
+      "@type": "Article",
+      "name": "Connect Hubspot with Chat GPT",
+      "url": "https://lnkd.in/gWvJpa4g",
+      "description": "CRM integration with AI for enhanced lead management"
+    },
+    {
+      "@type": "Article",
+      "name": "Create your Knowledge graph for enabling LLM searches",
+      "url": "https://lnkd.in/gSSrntX7",
+      "description": "Building AI-powered knowledge systems for lead intelligence"
+    },
+    {
+      "@type": "Article",
+      "name": "How to create GTM Alpha using AI tools",
+      "url": "https://lnkd.in/g5ktkTbc",
+      "description": "AI-enhanced go-to-market strategies and execution"
+    },
+    {
+      "@type": "Article",
+      "name": "MarketShift AI Website",
+      "url": "https://coda.io/@shashwat-ghosh-gtm-alpha/marketshift-ai-website",
+      "description": "Comprehensive AI marketplace and tools for B2B marketing"
+    }
+  ],
+  "targetAudience": {
+    "@type": "Audience",
+    "audienceType": "B2B Startups and AI Enthusiasts",
+    "description": "Fast-growing B2B companies with experienced SDR teams and professionals interested in AI-powered lead generation methodologies"
+  },
+  "competencyRequired": [
+    "AI Prompt Engineering",
+    "Multi-Channel Outreach Strategy",
+    "DISC Personality Assessment",
+    "Competitive Intelligence",
+    "Trigger-Based Prospecting",
+    "Hyper-Personalization Techniques",
+    "B2B Sales Process Optimization"
   ]
 }
